@@ -57,5 +57,5 @@ You can also starting from enum Dto file:
 exemple:
 export enum TestEnumDto {
  Test1 = "test1",
- Test2 = "tesT2"
+ Test2 = "test2"
 }
