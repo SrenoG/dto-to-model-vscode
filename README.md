@@ -1,3 +1,4 @@
+Mainly used for my company, but can be used for your Angular project if yours models, Dto's or Enum match
 ## Features
 
 Context menu is enable on .ts files, you can generate enum and all files from there
@@ -45,12 +46,12 @@ They can be ending by a ',' or be surrounding by quote or simple quote,
 
 but they can be in lowerCamelCase or CamelCase.
 
-Doublon are deleted in the process.
+Doublon are deleted in the process and the list is sorted.
 
 You can also starting from enum Dto file:
 
 exemple:
 export enum TestEnumDto {
-    Test1 = "test1",
-	Test2 = "tesT2"
+ Test1 = "test1",
+ Test2 = "tesT2"
 }
