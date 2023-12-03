@@ -1,5 +1,7 @@
 ## Features
 
+Context menu is enable on .ts files, you can generate enum and all files from there
+
 - 'CTRL + ALT + F1' : 'FROM STRING : Generate Enum'
     Need enum-dto.d.ts or enum-dto.ts extension file
     see notes below
