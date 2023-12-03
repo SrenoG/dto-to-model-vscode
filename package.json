@@ -3,7 +3,7 @@
   "displayName": "From dto to model",
   "description": "",
   "icon": "images/logo.png",
-  "version": "9.0.3",
+  "version": "9.0.4",
   "engines": {
     "vscode": "^1.79.0"
   },
