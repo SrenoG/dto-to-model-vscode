@@ -7,7 +7,7 @@ Check into folder "tests" https://github.com/SrenoG/dto-to-model what output you
 
 Context menu is enable on .ts files, you can generate enum and all files from there
 
-- 'CTRL + ALT + F1' : 'FROM STRING : Generate Enum'
+- 'CTRL + ALT + F1' : 'FROM DTO : Generate Enum'
     Need enum-dto.d.ts or enum-dto.ts extension file
     see notes below
     
@@ -34,7 +34,7 @@ Except 'Generate Enum, these methods have to be used in api folder with all othe
 But can be used localy without this feature.
 
 
-## Notes for ENUM generator
+## Notes for ENUM generator ## DISABLED FEATURE FOR NOW - CAN ONLY BE GENERATED FROM DTO
 
 You can now transform a list of string into Enum.
 

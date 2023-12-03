@@ -3,7 +3,7 @@
   "displayName": "From dto to model",
   "description": "",
   "icon": "images/logo.png",
-  "version": "9.0.5",
+  "version": "9.0.6",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -24,7 +24,7 @@
     "commands": [
       {
         "command": "fromstringenum",
-        "title": "FROM STRING : Generate Enum"
+        "title": "FROM DTO : Generate Enum"
       },
       {
         "command": "fromdtotomodel",
