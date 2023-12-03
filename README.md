@@ -1,4 +1,8 @@
+## Warning
+
 Mainly used for my company, but can be used for your Angular project if yours models, Dto's or Enum match
+Check into folder "tests" https://github.com/SrenoG/dto-to-model what output you can expect.
+
 ## Features
 
 Context menu is enable on .ts files, you can generate enum and all files from there
@@ -20,7 +24,7 @@ Context menu is enable on .ts files, you can generate enum and all files from th
     Need -dto.d.ts or -dto.ts extension file
 
 - 'CTRL + ALT + F5' : 'FROM DTO : Create all files'
-    from an opened dto file => generate model, spec and mock in a new folder in current folder (let some seconds to execute, all files has been closed at the end)
+    from an opened dto file => generate model, spec and mock in a new folder in current folder
     If file is an enum => generate enum
     Need -dto.d.ts or -dto.ts extension file
 
@@ -53,5 +57,5 @@ You can also starting from enum Dto file:
 exemple:
 export enum TestEnumDto {
  Test1 = "test1",
- Test2 = "tesT2"
+ Test2 = "test2"
 }
