@@ -1,9 +1,9 @@
 {
   "name": "dtotomodel",
-  "displayName": "From model to dto",
+  "displayName": "From dto to model",
   "description": "",
   "icon": "images/logo.png",
-  "version": "9.0.0",
+  "version": "9.0.1",
   "engines": {
     "vscode": "^1.79.0"
   },
