@@ -34,7 +34,7 @@ Except 'Generate Enum, these methods have to be used in api folder with all othe
 But can be used localy without this feature.
 
 
-## Notes for ENUM generator
+## Notes for ENUM generator ##DISABLED FOR NOW - CAN ONLY GENERATE ENUM FROM DTO
 
 You can now transform a list of string into Enum.
 
